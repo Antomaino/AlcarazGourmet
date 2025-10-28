@@ -25,4 +25,16 @@
       border: none;
       margin-right: 20px;
     }
+
+    .catalogo-titulo {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .titulo-img {
+      max-width: 100%;
+      height: auto;
+      display: inline-block;
+    }
+
  
